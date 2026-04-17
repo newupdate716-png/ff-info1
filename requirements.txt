@@ -1,0 +1,5 @@
+flask
+requests
+user-agent
+beautifulsoup4
+deep-translator
